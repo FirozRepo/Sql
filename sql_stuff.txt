@@ -1,0 +1,33 @@
+s one of the most fundamental skillset for analysts and data scientists. It is widely used for querying directly from databases and is, therefore, one of the most commonly used languages for data analysis tasks. We have curated a list of resources to improve your SQL skills -
+
+1️⃣ SQL for Beginners and Analysts – Get Started with SQL using Python
+🔗 https://buff.ly/2Tjs6rZ
+
+
+2️⃣ SQL vs NoSQL Databases – A Key Concept Every Data Engineer Should Know
+🔗 https://buff.ly/3dTZj6U
+
+
+3️⃣ 8 SQL Techniques to Perform Data Analysis for Analytics and Data Science
+🔗 https://buff.ly/2HyYGn3
+
+
+4️⃣ 24 Commonly used SQL Functions for Data Analysis tasks
+🔗 https://buff.ly/3oltp85
+
+
+5️⃣ Understanding Joins In SQL – Inner, Left, Right and Full Joins Explained
+🔗 https://buff.ly/3jqtgNh
+
+
+6️⃣ Difference between SQL Keys (Primary Key, Super Key, Candidate Key, Foreign Key)
+🔗 https://buff.ly/31AB7l4
+
+
+7️⃣ Analysing Streaming Tweets with Python and PostgreSQL
+🔗 https://buff.ly/34pDOba
+
+
+8️⃣ 42 Questions on SQL for all aspiring Data Scientists
+🔗 https://buff.ly/34nvJUc
+
